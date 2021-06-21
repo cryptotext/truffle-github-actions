@@ -1,0 +1,22 @@
+{
+  "name": "truffle-github-actions",
+  "version": "1.0.0",
+  "description": "Truffle test examples on GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptotext/truffle-github-actions.git"
+  },
+  "keywords": [
+    "Truffle"
+  ],
+  "author": "CryptoText",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptotext/truffle-github-actions/issues"
+  },
+  "homepage": "https://github.com/cryptotext/truffle-github-actions#readme"
+}
